@@ -83,4 +83,5 @@ Los modelos `.pkl` generados por el Notebook se cargan con `cloudpickle`. No se 
 La aplicación se encuentra desplegada en Streamlit Community Cloud y está conectada directamente con el repositorio de GitHub.
 
 - Repositorio: https://github.com/v2l5r0a/clasificacion-irradiancia-kernel
+- video: https://youtu.be/J-_jf6OMQnM
 - Aplicación: [https://v2l5r0a-clasificacion-irradiancia-kernel-app-cucuzbh.streamlit.app/](https://v2l5r0a-clasificacion-irradiancia-kernel-appapp-cuuzbh.streamlit.app/)
